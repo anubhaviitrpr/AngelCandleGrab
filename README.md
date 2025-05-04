@@ -34,8 +34,8 @@ This project, **AngelCandleGrab**, provides a Python utility to fetch, update, a
 1.  **Clone the repository:**
     Open your terminal or command prompt and clone the project:
     ```bash
-    git clone <repository_url> # Replace with the actual URL of your GitHub repository
-    cd AngelCandleGrab # Or whatever your repository folder is named
+    git clone https://github.com/anubhaviitrpr/AngelCandleGrab.git
+    cd AngelCandleGrab 
     ```
 
 2.  **Create and activate a Python Virtual Environment (Recommended):**
@@ -191,7 +191,7 @@ You can customize the behavior by setting environment variables or modifying `co
 
 ## License
 
-This project is licensed under the MIT License - see the `LICENSE` file for details. (You should create a `LICENSE` file in your repository with the MIT License text).
+This project is licensed under the MIT License - see the `LICENSE` file for details.
 
 ## Contributing
 
