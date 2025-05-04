@@ -1,0 +1,30 @@
+# .gitignore
+# Ignore Python environment directory
+venv/
+.venv/
+
+# Ignore compiled Python files
+*.pyc
+__pycache__/
+
+# Ignore log files
+*.log
+*.txt # If you use text files for anything else
+
+# Ignore data directories
+NIFTY_50_DATA_*/
+
+# Ignore credentials file if using python-dotenv
+.env
+
+# Ignore editor/IDE specific files
+.vscode/
+.idea/
+
+# Ignore jupyter notebook checkpoints
+.ipynb_checkpoints
+
+# Ignore package build files
+dist/
+build/
+*.egg-info/
